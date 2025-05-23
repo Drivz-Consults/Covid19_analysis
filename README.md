@@ -137,6 +137,7 @@ o Action: Establish systems for real-time data analysis to adapt strategies
 dynamically based on the evolving situation.
 These steps will improve pandemic response and minimize mortality in future outbreaks, 
 leveraging lessons learned from the 2020 COVID-19 experience.
+
 CONCLUSION:
 Conclusively, it is advised the more viable data should be collected and made available 
 publicly in Nigeria, which is our home country, so that more analysis like this can be done on 
