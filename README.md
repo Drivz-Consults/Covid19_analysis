@@ -3,8 +3,7 @@ COVID-19;
 AN ANALYSIS OF 
 DEATH/RECOVERY RATE ACROSS 
 SELECTED COUNTRIES IN 2020
-ID/CT/00066
-Gafar S. O.
+
 Abstract
 The COVID-19 pandemic, a global health crisis unprecedented in modern history, significantly 
 impacted mortality rates across the world in 2020. This project investigates the death rate 
